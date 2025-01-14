@@ -5,7 +5,7 @@
 
 <script setup>
 import Contador from './components/Contador.vue'
-import ListadeTareas from './components/ListadeTareas.vue'
+import ListadeTareas from './components/ListaDeTareas.vue'
 </script>
 
 <style scoped>
